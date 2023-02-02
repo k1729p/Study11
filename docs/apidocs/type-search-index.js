@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"kp","l":"Application"},{"p":"kp","l":"ClientApplication"},{"p":"kp.ws","l":"CompanyEndpoint"},{"p":"kp.repository","l":"CompanyRepository"},{"p":"kp.ws","l":"CompanyServiceClient"},{"p":"kp","l":"Constants"},{"p":"kp.ws","l":"WebServiceConfiguration"}];updateSearchResults();

@@ -1,0 +1,29 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+<SOAP-ENV:Header/>
+<SOAP-ENV:Body>
+<ns2:getDepartmentsResponse xmlns:ns2="http://kp.com/ws">
+<ns2:departments>
+<ns2:id>1</ns2:id>
+<ns2:name>N-a-m-e-01</ns2:name>
+<ns2:employees>
+<ns2:id>1</ns2:id>
+<ns2:firstName>F-N-a-m-e-01</ns2:firstName>
+<ns2:lastName>L-N-a-m-e-01</ns2:lastName>
+<ns2:title>Manager</ns2:title>
+</ns2:employees>
+<ns2:employees>
+<ns2:id>2</ns2:id>
+<ns2:firstName>F-N-a-m-e-02</ns2:firstName>
+<ns2:lastName>L-N-a-m-e-02</ns2:lastName>
+<ns2:title>Analyst</ns2:title>
+</ns2:employees>
+<ns2:employees>
+<ns2:id>3</ns2:id>
+<ns2:firstName>F-N-a-m-e-03</ns2:firstName>
+<ns2:lastName>L-N-a-m-e-03</ns2:lastName>
+<ns2:title>Developer</ns2:title>
+</ns2:employees>
+</ns2:departments>
+</ns2:getDepartmentsResponse>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
