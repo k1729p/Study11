@@ -1,0 +1,8 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+<SOAP-ENV:Header/>
+<SOAP-ENV:Body>
+<ns2:getDepartmentsRequest xmlns:ns2="http://kp.com/ws">
+<ns2:departmentName>N-a-m-e-01</ns2:departmentName>
+</ns2:getDepartmentsRequest>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
